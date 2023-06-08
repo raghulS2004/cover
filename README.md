@@ -144,8 +144,10 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![cover](https://github.com/raghulS2004/cover/assets/122069938/e2419d24-1697-43a7-9807-5c5b292383c1)
 
 ## HTML VALIDATOR:
+![validation](https://github.com/raghulS2004/cover/assets/122069938/8b5404ed-89db-4305-8931-7b0b6b077f31)
 
 
 ## RESULT:
